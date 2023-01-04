@@ -6,8 +6,3 @@ services:
       HASH: $HASH  
       TOKEN: $TOKEN 
       STRING: $STRING
-      ports:
-      - 8080
-    resources:
-      cpu: 1000m
-      memory: 3Gi
